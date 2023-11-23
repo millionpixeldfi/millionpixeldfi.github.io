@@ -1,0 +1,1 @@
+import{p as t}from"./index-35a5e177.js";const r=t({class:[String,Array],style:{type:[String,Array,Object],default:null}},"component"),o=t({tag:{type:String,default:"div"}},"tag");export{o as a,r as m};
